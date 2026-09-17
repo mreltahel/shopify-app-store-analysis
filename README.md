@@ -7,23 +7,21 @@
 
 ## Key Insight
 
-The Shopify App Store marketplace is in a strong growth phase: review activity across all 500 apps is up **91.09% year-over-year**, with an average customer rating of **4.19 out of 5** across roughly 8,000 reviews. The **SEO** category generates more reviews than any other category in the marketplace, making it the current center of gravity for merchant engagement. Review volume also follows a consistent seasonal pattern — activity peaks sharply every December before dropping off in January — suggesting merchants engage most heavily with apps around year-end business cycles (likely tied to holiday sales prep and year-end store optimization) before tapering into the new year.
+The Shopify App Store marketplace is in a strong growth phase: review activity is up **76.8% year-over-year (2024 vs. 2023)**, with an average customer rating of **4.19 out of 5** across roughly 8,000 reviews across all 500 apps. The **SEO** category generates more reviews than any other category in the marketplace, making it the current leader in customer review engagement.
 
 One area with clear room for improvement: developers reply to only **24.80%** of customer reviews. With review volume growing this quickly, that reply rate will only become a larger gap if it isn't addressed.
 
 ## Business Impact
 
-- **Growth is broad-based, not a fluke.** A 91% YoY increase in review volume across the full app catalog signals genuine rising merchant engagement with the App Store, not a one-off spike in a single category.
-- **SEO's lead position matters for merchandising and partner strategy.** Since SEO apps draw the most review activity, they're likely also driving discovery and installs — the category deserves prioritized placement, curation, and possibly closer partnership support from Shopify's team.
-- **The December spike / January drop is a predictable, repeatable pattern.** This is valuable for planning — marketplace campaigns, featured app placements, or developer outreach initiatives timed around Q4 will land when merchant attention is naturally highest.
+- **Growth is broad-based, not a fluke.** A 76.8% YoY increase in review volume (2024 vs. 2023) across the full app catalog signals genuine rising merchant engagement with the App Store, not a one-off spike in a single category.
+- **SEO leads the marketplace in review engagement.** SEO apps generate more customer reviews than any other category, making it the current center of gravity for review activity. This dataset doesn't include install or discovery metrics, so this insight is scoped specifically to review engagement rather than broader marketplace performance.
 - **Low developer reply rates are a merchant satisfaction risk.** A quarter of reviews getting a developer response means most customer feedback — positive or negative — currently goes unacknowledged. As review volume keeps climbing, unanswered reviews (especially negative ones) become more visible and can quietly erode trust in the marketplace.
 
 ## Recommendation
 
 1. **Double down on the SEO category.** Investigate what's driving SEO's outsized review volume — pricing model, feature set, or something else — and evaluate whether promoting similar app types across other categories replicates that engagement.
-2. **Plan Q4 marketplace initiatives around the December peak.** Time developer outreach programs, featured app promotions, or App Store campaigns to land in November/December when merchant attention and review activity are naturally at their highest.
-3. **Set a developer reply-rate target.** Consider surfacing reply rate as a visible metric to developers (e.g., in their partner dashboard) and encourage a response benchmark — even a modest increase from 24.80% toward 40–50% would materially improve merchant-facing engagement as review volume continues to grow.
-4. **Monitor the January drop-off.** Confirm whether this is purely seasonal (expected, low-risk) or indicates a post-holiday support gap worth addressing with merchants.
+2. **Set a developer reply-rate target.** Consider surfacing reply rate as a visible metric to developers (e.g., in their partner dashboard) and encourage a response benchmark — even a modest increase from 24.80% toward 40–50% would materially improve merchant-facing engagement as review volume continues to grow.
+3. **Investigate genuine seasonal patterns with proper month-over-month analysis.** A future analysis could examine raw monthly review counts (not cumulative/YTD figures, which always trend upward within a year by construction) across multiple years to identify any real recurring seasonal patterns worth planning around.
 
 ---
 
